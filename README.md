@@ -1,4 +1,4 @@
-# api-kanye-rest
+# Random-Quote-Generator 
 
 ## Project setup
 ```
